@@ -6,8 +6,8 @@ image: /images/3dgaussian.jpg
 categories: research
 author: "Donggoo Jung"
 authors: "<strong>Donggoo Jung*</strong>, Daehyun Kim*, Guanghui Wang, TaeHyun Kim"
-venue: "CVPR"
-link: https://arxiv.org/abs/2308.14737
+venue: "arXiv"
+arxiv: https://arxiv.org/abs/2308.14737
 code: https://github.com/leonidk/fmb-plus
 website: https://leonidk.github.io/fmb-plus
 ---
