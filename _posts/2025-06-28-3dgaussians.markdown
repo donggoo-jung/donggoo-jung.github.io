@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Exposure-slot: Exposure-centric representations learning with Slot-in-Slot Attention for Region-aware Exposure Correction"
-date:   2024-06-28 22:21:59 +00:00
+date:   2025-03-01 22:21:59 +00:00
 image: /images/3dgaussian.jpg
 categories: research
 author: "Donggoo Jung"
