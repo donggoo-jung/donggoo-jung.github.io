@@ -6,9 +6,9 @@ image: /images/3dgaussian.jpg
 categories: research
 author: "Donggoo Jung"
 authors: "<strong>Donggoo Jung*</strong>, Daehyun Kim*, Guanghui Wang, TaeHyun Kim"
-venue: "IEEE Conference on Computer Vision and Pattern Recognition (CVPR)"
-arxiv: https://arxiv.org/abs/2308.14737
+venue: "IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>)"
+paper: https://arxiv.org/abs/2308.14737
 code: https://github.com/leonidk/fmb-plus
 website: https://leonidk.github.io/fmb-plus
 ---
-We show how shape reconstruction with 3D Gaussians can be expanded to include differentiable optical flow, colored mesh exports and more. 
+We introduce a slot-in-slot mechanism for exposure correction, hierarchically partitioning exposure-centric features, and achieved state-of-the-art performance in the exposure correction task.

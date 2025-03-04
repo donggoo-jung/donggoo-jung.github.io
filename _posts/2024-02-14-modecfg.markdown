@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "sRGB Real Noise Modeling via Noise-Aware Sampling with Normalizing Flows"
+date:   2024-02-14 22:21:59 +00:00
+image: /images/modecfg.png
+categories: research
+author: "Donggoo Jung"
+authors: "Dongjin Kim*, <strong>Donggoo Jung*</strong>, Sungyong Baik, Tae Hyun Kim"
+venue: "International Conference on Learning Representations (<strong>ICLR</strong>)"
+paper: https://openreview.net/forum?id=2XBBumBGeP
+code: https://github.com/dongjinkim9/NAFlow
+website: https://github.com/dongjinkim9/NAFlow
+---
+We leverage the mean and standard deviation of Normalizing Flow to effectively model diverse noise distributions with a single model, achieving state-of-the-art performance in noise modeling in terms of both KLD/AKLD and parameter efficiency.
