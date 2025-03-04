@@ -6,7 +6,7 @@ image: /images/pairwise.png
 categories: research
 author: "Donggoo Jung"
 authors: "<strong>Donggoo Jung*</strong>, Daehyun Kim*, Tae Hyun Kim"
-venue: "International Conference on Learning Representations (<strong>ICLR</strong>) <b style='color: red;'>Spotlight<b> "
+venue: "International Conference on Learning Representations (<strong>ICLR</strong>) <b style='color: red;'>Spotlight</b>"
 paper: https://openreview.net/forum?id=Mn2qgIcIPS
 code: https://github.com/dgjung0220/CLODE
 website: https://github.com/dgjung0220/CLODE
