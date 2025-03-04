@@ -7,8 +7,8 @@ categories: research
 author: "Donggoo Jung"
 authors: "<strong>Donggoo Jung*</strong>, Daehyun Kim*, Guanghui Wang, TaeHyun Kim"
 venue: "IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>)"
-paper: https://arxiv.org/abs/2308.14737
-code: https://github.com/leonidk/fmb-plus
-website: https://leonidk.github.io/fmb-plus
+paper: https://donggoo-jung.github.io
+code: https://donggoo-jung.github.io
+website: https://donggoo-jung.github.io
 ---
 We introduce a slot-in-slot mechanism for exposure correction, hierarchically partitioning exposure-centric features, and achieved state-of-the-art performance in the exposure correction task.
