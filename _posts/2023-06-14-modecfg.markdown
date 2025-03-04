@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Two-stage learning-based prediction of bronchopulmonary dysplasia in very low birth weight infants: a nationwide cohort study"
+date:   2023-06-14 22:21:59 +00:00
+image: /images/modecfg.png
+categories: journal
+author: "Donggoo Jung"
+authors: "Jae Kyoon Hwang*, Dae Hyun Kim*, Jae Yoon Na*, Joonhyuk Son, Yoon Ju Oh, <b>Donggoo Jung</b>, Chang-Ryul Kim, Tae Hyun Kim, Hyun-Kyung Park"
+venue: "Frontiers in Pediatrics"
+paper: https://www.frontiersin.org/journals/pediatrics/articles/10.3389/fped.2023.1155921/full
+---

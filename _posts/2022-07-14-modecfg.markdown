@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Development of artificial neural networks for early prediction of intestinal perforation in preterm infants"
+date:   2022-07-14 22:21:59 +00:00
+image: /images/modecfg.png
+categories: journal
+author: "Donggoo Jung"
+authors: "Joonhyuk Son*, Daehyun Kim*, Jae Yoon Na*, <b>Donggoo Jung</b>, Ja-Hye Ahn, Tae Hyun Kim, Hyun-Kyung Park"
+venue: "Scientific Reports"
+paper: https://donggoo-jung.github.io
+---

@@ -5,7 +5,7 @@ date:   2024-06-14 22:21:59 +00:00
 image: /images/modecfg.png
 categories: journal
 author: "Donggoo Jung"
-authors: "Seung Hyun Kim, Yoon Ju Oh, Joonhyuk Son, <b>Donggoo Jung</b>, Daehyun Kim, Soo Rack Ryu, Jae Yoon Na, Jae Kyoon Hwang, Tae Hyun Kim, Hyun-Kyung Park"
+authors: "Seung Hyun Kim*, Yoon Ju Oh*, Joonhyuk Son*, <b>Donggoo Jung</b>, Daehyun Kim, Soo Rack Ryu, Jae Yoon Na, Jae Kyoon Hwang, Tae Hyun Kim, Hyun-Kyung Park"
 venue: "European Journal of Pediatrics"
 paper: https://link.springer.com/article/10.1007/s00431-024-05505-7
 ---
