@@ -2,7 +2,7 @@
 layout: post
 title:  "Continuous Exposure Learning for Low-light Image Enhancement using Neural ODEs"
 date:   2025-02-01 22:21:59 +00:00
-image: /images/pairwise.png
+image: /images/clode.png
 categories: research
 author: "Donggoo Jung"
 authors: "<strong>Donggoo Jung*</strong>, Daehyun Kim*, Tae Hyun Kim"
