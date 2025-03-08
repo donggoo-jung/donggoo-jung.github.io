@@ -6,6 +6,6 @@ image: /images/journal_2.png
 categories: journal
 author: "Donggoo Jung"
 authors: "Jae Yoon Na*, <b>Donggoo Jung*</b>, Jong Ho Cha*, Daehyun Kim, Joonhyuk Son, Jae Kyoon Hwang, Tae Hyun Kim, Hyun-Kyung Park"
-venue: "Neonatology"
+venue: "<b>Neonatology</b>"
 paper: https://karger.com/neo/article/120/5/652/854411
 ---
