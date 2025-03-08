@@ -2,7 +2,7 @@
 layout: post
 title:  "Learning-based longitudinal prediction models for mortality risk in very-low-birth-weight infants: a nationwide cohort study"
 date:   2023-10-14 22:21:59 +00:00
-image: /images/modecfg.png
+image: /images/journal_2.png
 categories: journal
 author: "Donggoo Jung"
 authors: "Jae Yoon Na*, <b>Donggoo Jung*</b>, Jong Ho Cha*, Daehyun Kim, Joonhyuk Son, Jae Kyoon Hwang, Tae Hyun Kim, Hyun-Kyung Park"
