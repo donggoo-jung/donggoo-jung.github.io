@@ -2,7 +2,7 @@
 layout: post
 title:  "Machine learning-based analysis for prediction of surgical necrotizing enterocolitis in very low birth weight infants using perinatal factors: a nationwide cohort study"
 date:   2024-06-14 22:21:59 +00:00
-image: /images/modecfg.png
+image: /images/journal_1.png
 categories: journal
 author: "Donggoo Jung"
 authors: "Seung Hyun Kim*, Yoon Ju Oh*, Joonhyuk Son*, <b>Donggoo Jung</b>, Daehyun Kim, Soo Rack Ryu, Jae Yoon Na, Jae Kyoon Hwang, Tae Hyun Kim, Hyun-Kyung Park"
