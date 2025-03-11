@@ -8,7 +8,7 @@ author: "Donggoo Jung"
 authors: "<strong>Donggoo Jung*</strong>, Daehyun Kim*, Guanghui Wang, TaeHyun Kim"
 venue: "IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>)"
 paper: https://cvpr.thecvf.com/virtual/2025/poster/33508
-code: https://donggoo-jung.github.io
+code: https://github.com/kdhRick2222/Exposure-slot
 website: https://cvpr.thecvf.com/virtual/2025/poster/33508
 ---
 We introduce a slot-in-slot mechanism for exposure correction, hierarchically partitioning exposure-centric features, and achieved state-of-the-art performance in the exposure correction task.
